@@ -1,0 +1,1 @@
+Test and improve your typing skills with this engaging JavaScript-based typing game. Players are challenged to type words as quickly and accurately as possible, with real-time feedback on their performance.
